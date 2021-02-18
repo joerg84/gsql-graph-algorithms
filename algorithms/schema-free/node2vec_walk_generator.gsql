@@ -1,0 +1,20 @@
+CREATE QUERY node2_vec_walks(SET<STRING> v_type,
+                                   SET<STRING> e_type,
+                                   UINT DIMENSIONS = 64,
+                                   UINT WALK_LENGTH = 10,
+                                   UINT NUM_WALKS = 20,
+                                   UINT p = 1,
+                                   UINT q = 1
+                                   )
+
+  {
+
+  /* Generates Guided Random Walks for Node2Vec
+
+  Conditions:
+
+   Arguments:
+
+  */
+  
+}
